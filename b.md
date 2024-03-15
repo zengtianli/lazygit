@@ -1,6 +1,6 @@
-this is from new
+new thing
 aa.md
 b.md
 c.md
 d.md
-readme.new
+other
