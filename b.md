@@ -1,4 +1,3 @@
-<!-- b.md -->
 new thing
 ben this is from new
 aa.md
